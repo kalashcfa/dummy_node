@@ -1,0 +1,1 @@
+Hello ! i'm writing this file: content/first.txt , content/second.txt Hello ! ;
